@@ -1,0 +1,14 @@
+/Users/gustavoriera/Projects/platzi/platzi/bin/Debug/net7.0/platzi
+/Users/gustavoriera/Projects/platzi/platzi/bin/Debug/net7.0/platzi.deps.json
+/Users/gustavoriera/Projects/platzi/platzi/bin/Debug/net7.0/platzi.runtimeconfig.json
+/Users/gustavoriera/Projects/platzi/platzi/bin/Debug/net7.0/platzi.dll
+/Users/gustavoriera/Projects/platzi/platzi/bin/Debug/net7.0/platzi.pdb
+/Users/gustavoriera/Projects/platzi/platzi/obj/Debug/net7.0/platzi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gustavoriera/Projects/platzi/platzi/obj/Debug/net7.0/platzi.AssemblyInfoInputs.cache
+/Users/gustavoriera/Projects/platzi/platzi/obj/Debug/net7.0/platzi.AssemblyInfo.cs
+/Users/gustavoriera/Projects/platzi/platzi/obj/Debug/net7.0/platzi.csproj.CoreCompileInputs.cache
+/Users/gustavoriera/Projects/platzi/platzi/obj/Debug/net7.0/platzi.dll
+/Users/gustavoriera/Projects/platzi/platzi/obj/Debug/net7.0/refint/platzi.dll
+/Users/gustavoriera/Projects/platzi/platzi/obj/Debug/net7.0/platzi.pdb
+/Users/gustavoriera/Projects/platzi/platzi/obj/Debug/net7.0/platzi.genruntimeconfig.cache
+/Users/gustavoriera/Projects/platzi/platzi/obj/Debug/net7.0/ref/platzi.dll

@@ -20,11 +20,25 @@ de optimizacion es mejor usar Arrays pero cuando no se sabe cuanta data estara a
 List<SuperPower> supermanPowers = new List<SuperPower>();
 supermanPowers.Add(volar);
 supermanPowers.Add(superFuerza);
-SuperHero superman = new SuperHero("Superman","Clark Kent",supermanPowers,true,"Metropolis");
+SuperHero superman = new SuperHero("    Superman     ","Clark Kent",supermanPowers,true,"Metropolis");
+
+List<SuperPower> wolverinePowers = new List<SuperPower>();
+wolverinePowers.Add(volar);
+wolverinePowers.Add(superFuerza);
+AntiHero wolverine = new("Wolverine","Logan",wolverinePowers,false,"");
+
 
 string text=superman.UseSuperPower();
 Console.WriteLine(text);
+string text2 = wolverine.AntiHeroAction("Comer verduras.");
+Console.WriteLine(text2);
+Console.WriteLine(wolverine.UseSuperPower());
+Console.WriteLine(wolverine.saveTheWorld());
+Console.WriteLine(wolverine.saveEarth());
 
+
+var imprimirInfo = new ImprimirInfo();
+imprimirInfo.ImprimirSuperHeroe(superman);
 /*
  *********************************
      Tipos Registro y Struct
@@ -39,3 +53,4 @@ Console.WriteLine(text);
     Los Records parecen clases, pero los records permiten compararse con otros segun sus valores
     con las clases no podemos hacer esto porque class no toma el valor, toma la referencia.
  */
+
